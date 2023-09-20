@@ -1,0 +1,42 @@
+*{
+    background-color: grey;
+}
+
+body{
+    padding: 20px;
+}
+
+header {
+  text-align: center;
+  color: black;
+  font-size:50px;
+}
+
+body {
+    font-style: arial solid black;
+}
+
+
+nav {
+    font-style: italic;
+    text-align: center;
+    font-size: medium;
+    color: black ;
+    font-weight: 500;
+}
+
+section {
+  margin: 20px ;
+  padding: 20px ;
+  background-color:aliceblue;
+  font-weight: 300;
+}
+
+a:hover{
+    color:darkred;
+}
+
+a {
+    font-size: 30px;
+    color: black;
+}
